@@ -15,7 +15,7 @@
 >
 > 工作： 基本页面渲染交互的实现；图片懒加载、预加载的组件封装，提高画面稳定及页面加载速度；使用动态路由，提高第一次页面渲染速度；加入了路由分权、按钮分权，使不同的用户拥有不同的操作权限
 ### 技术栈
-** vue3+ts+pinia+vue-router+element-plus+echarts **
+**vue3+ts+pinia+vue-router+element-plus+echarts**
 ### VUE3之组件间通信
 
 #### props
